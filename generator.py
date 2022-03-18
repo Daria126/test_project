@@ -11,6 +11,7 @@ for n in sq_gen():
     print(n)
 
 
+
 # 2. Pipeling
 def gen_int(n):
     for i in range(n):
